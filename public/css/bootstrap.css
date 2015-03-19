@@ -1918,6 +1918,9 @@ pre code {
   }
   .col-md-12 {
     width: 100%;
+  }  
+  .col-md-12 h1, .col-md-12 .h1 {
+    text-align: center;      
   }
   .col-md-11 {
     width: 91.66666667%;
@@ -4841,11 +4844,11 @@ a.badge:focus {
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #f39c12;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: inherit;
+  color: white;
 }
 .jumbotron p {
   margin-bottom: 15px;
