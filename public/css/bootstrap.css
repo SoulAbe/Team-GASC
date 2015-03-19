@@ -4845,11 +4845,11 @@ a.badge:focus {
   padding: 30px 15px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #f39c12;
+  background-color: white;
 }
 .jumbotron h1,
 .jumbotron .h1 {
-  color: white;
+  color: inherit;
 }
 .jumbotron p {
   margin-bottom: 15px;
